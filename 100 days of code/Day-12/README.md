@@ -1,4 +1,4 @@
-# Day 13 - Same Tree
+# Day 12 - Same Tree
 
 Solved the Same Tree problem using recursion by comparing corresponding nodes of both binary trees.
 
@@ -25,4 +25,4 @@ Solved the Same Tree problem using recursion by comparing corresponding nodes of
 - Comparing both tree structure and node values simultaneously.
 - Understanding recursive Depth-First Search (DFS) on binary trees.
 
-✅ Day 13 Complete
+✅ Day 12 Complete
