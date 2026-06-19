@@ -1,4 +1,4 @@
-class Solution {
+class Sol {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
         int[] ans = new int[n];
