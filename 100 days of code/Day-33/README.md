@@ -1,4 +1,4 @@
-# 👑 Day 33 - N-Queens
+#  Day 33 - N-Queens
 
 Solved the **N-Queens** problem using the **Backtracking** approach with optimized **Column and Diagonal Tracking** to efficiently generate all valid board configurations.
 
